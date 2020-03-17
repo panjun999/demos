@@ -13,7 +13,7 @@ import reactor.core.publisher.Mono;
 public class MyGatewayApplication {
 
     public static void main(String[] args) {
-		String s="123";
+		String s="dev1";
         SpringApplication.run(MyGatewayApplication.class, args);
     }
 
