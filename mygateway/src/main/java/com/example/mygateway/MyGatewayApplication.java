@@ -14,7 +14,7 @@ public class MyGatewayApplication {
 
     public static void main(String[] args) {
 
-		String s="dev1111DDDD";
+		String s="dev11112222DDDDDDDDDDDDDDDDDDDD";
         SpringApplication.run(MyGatewayApplication.class, args);
 
     }
