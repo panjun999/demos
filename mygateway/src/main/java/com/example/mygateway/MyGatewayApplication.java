@@ -13,8 +13,9 @@ import reactor.core.publisher.Mono;
 public class MyGatewayApplication {
 
     public static void main(String[] args) {
+
 		String s="master";
-        SpringApplication.run(MyGatewayApplication.class, args);
+
     }
 
     @Bean
